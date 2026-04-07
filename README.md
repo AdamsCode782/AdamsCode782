@@ -11,7 +11,7 @@ I build high-performance, scalable web applications with a focus on clean archit
 * **Languages:** JavaScript (ES6+), TypeScript, C#, HTML5, CSS3/SCSS
 * **Frameworks & Libraries:** React 19, Next.js 14, Redux Toolkit, Zustand, React Query
 * **APIs & Data:** RESTful Architecture, GraphQL, WebSocket Integration (Real-time Systems)
-* **Visualization & Mapping:** D3.js, Chart.js, Google Maps API, NASA EONET Integration
+* **Visualization & Mapping:** D3.js, Chart.js, Geospatial/Mapping Integrations
 * **Styling & UI:** Tailwind CSS 4, Bootstrap 5, Material UI, Framer Motion
 * **Backend & DB:** Node.js, Express, PostgreSQL, MongoDB, Cloudinary SDK
 
