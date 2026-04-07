@@ -2,7 +2,7 @@
 
 **Senior Front-End Engineer | 8+ Years Experience**
 
-I build high-performance, scalable web applications with a focus on clean architecture and sophisticated state management. My background combines **5 years of independent freelance engineering** with **2 years of mission-critical government technology experience**, specializing in bridging complex data requirements with seamless, accessible user experiences.
+I build high-performance, scalable web applications with a focus on clean architecture and maintainable state management. My background includes 5 years of independent freelance engineering and 2 years working on mission-critical government systems, developing internal tools and public-facing applications that handle complex data and real-world operational demands.
 
 ---
 
@@ -17,17 +17,15 @@ I build high-performance, scalable web applications with a focus on clean archit
 
 ---
 
-### 🛠️ Engineering Focus
+## 🛠️ Engineering Focus
 
-* **Scale & Reliability:** 2 years on government technology teams, delivering robust front-end solutions for high-traffic public agencies and complex data ecosystems.
-* **Architecture:** Implementing modular, reusable component systems and atomic design patterns to handle enterprise-level complexity.
-* **Performance:** Optimizing Core Web Vitals, managing "cold starts" in serverless environments, and implementing optimistic UI updates for real-time applications.
-* **Modernization:** Extensive experience refactoring legacy systems (C# Web Forms/Bootstrap) into modern, responsive React architectures.
+- **Scale & Reliability:** Delivered front-end systems for government agencies, supporting high-traffic applications and complex policy-driven data workflows.  
+- **Architecture:** Designed modular, reusable component systems to support long-term maintainability and evolving product requirements.  
+- **Performance:** Improved Core Web Vitals, handled serverless cold starts, and implemented optimistic UI patterns for responsive, real-time user experiences.  
+- **Modernization:** Refactored legacy C# Web Forms applications into modern, responsive React-based systems without disrupting existing functionality.  
 
----
+## 🌐 Professional Ecosystem
 
-### 🌐 Professional Ecosystem
-
-* **Official Portfolio:** [adam-steele.dev](https://www.adam-steele.dev/)
-* **Background:** Master’s in Research Methods (Applied Analytical Frameworks).
-* **Focus:** High-throughput data systems and advanced React patterns.
+- **Official Portfolio:** adam-steele.dev  
+- **Background:** Master’s in Urban Policy with a focus on analytical and data-driven decision-making  
+- **Focus:** Building reliable, user-centered applications for data-intensive and civic-oriented systems  
