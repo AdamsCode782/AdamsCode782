@@ -26,6 +26,6 @@ I build high-performance, scalable web applications with a focus on clean archit
 
 ## 🌐 Professional Ecosystem
 
-- **Official Portfolio:** adam-steele.dev  
+- **Official Portfolio:** [adam-steele.dev](https://adam-steele.dev) 
 - **Background:** Master’s in Urban Policy with a focus on analytical and data-driven decision-making  
 - **Focus:** Building reliable, user-centered applications for data-intensive and civic-oriented systems  
