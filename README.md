@@ -6,14 +6,23 @@ I’m a Senior Software Engineer focused on building full-stack applications and
 
 I’ve built systems used by 30k+ users and internal tools supporting housing operations across 500,000+ residents and 2,000+ buildings. Most of my work involves taking messy, real-world requirements and turning them into usable, production-ready products.---
 
-### 💻 Core Technical Stack
+### tech I work with
 
-* **Languages:** JavaScript (ES6+), TypeScript, C#, HTML5, CSS3/SCSS
-* **Frameworks & Libraries:** React 19, Next.js 14, Redux Toolkit, Zustand, React Query
-* **APIs & Data:** RESTful Architecture, GraphQL, WebSocket Integration (Real-time Systems)
-* **Visualization & Mapping:** D3.js, Chart.js, Geospatial/Mapping Integrations
-* **Styling & UI:** Tailwind CSS 4, Bootstrap 5, Material UI, Framer Motion
-* **Backend & DB:** Node.js, Express, PostgreSQL, MongoDB, Cloudinary SDK
+**Core**  
+React, Next.js, TypeScript, Node.js, Python  
+
+**State & Data**  
+Zustand, React Query, Redux Toolkit  
+PostgreSQL, MongoDB  
+
+**UI & Visualization**  
+Tailwind CSS  
+D3.js, Recharts  
+Leaflet, ArcGIS  
+
+**APIs & Tooling**  
+REST, GraphQL, WebSockets  
+Vitest, GitHub Actions  
 
 ---
 
