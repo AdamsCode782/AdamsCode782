@@ -1,6 +1,6 @@
 # Hi, I'm Adam Steele 👋
 
-**Senior Front-End Engineer | 8+ Years Experience**
+**Senior Full-Stack Engineer | 8+ Years Experience**
 
 I build high-performance, scalable web applications with a focus on clean architecture and maintainable state management. My background includes 5 years of independent freelance engineering and 2 years working on mission-critical government systems, developing internal tools and public-facing applications that handle complex data and real-world operational demands.
 
