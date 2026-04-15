@@ -2,9 +2,9 @@
 
 **Senior Full-Stack Engineer | 8+ Years Experience**
 
-I build high-performance, scalable web applications with a focus on clean architecture and maintainable state management. My background includes 5 years of independent freelance engineering and 2 years working on mission-critical government systems, developing internal tools and public-facing applications that handle complex data and real-world operational demands.
+I’m a Senior Software Engineer focused on building full-stack applications and data-driven systems. I’ve worked across early-stage startups and New York’s public sector, building tools for real-time systems, geospatial analysis, and large-scale operational workflows.
 
----
+I’ve built systems used by 30k+ users and internal tools supporting housing operations across 500,000+ residents and 2,000+ buildings. Most of my work involves taking messy, real-world requirements and turning them into usable, production-ready products.---
 
 ### 💻 Core Technical Stack
 
