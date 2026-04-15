@@ -7,6 +7,7 @@ I’m a full-stack developer with experience across legacy public sector systems
 Always open to new people and new technical challenges.
 
 Sci-fi and physics nerd :)
+
 ---
 
 ### Tech I Work With
