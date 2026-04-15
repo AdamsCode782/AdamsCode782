@@ -2,11 +2,13 @@
 
 **Senior Full-Stack Engineer | 8+ Years Experience**
 
-I’m a Senior Software Engineer focused on building full-stack applications and data-driven systems. I’ve worked across early-stage startups and New York’s public sector, building tools for real-time systems, geospatial analysis, and large-scale operational workflows.
+I’m a Senior Software Engineer focused on full-stack applications, data systems, and real-time features. I’ve worked across early-stage startups and New York’s public sector, building tools for geospatial analysis, operational workflows, and large-scale reporting systems.
 
-I’ve built systems used by 30k+ users and internal tools supporting housing operations across 500,000+ residents and 2,000+ buildings. Most of my work involves taking messy, real-world requirements and turning them into usable, production-ready products.---
+I’ve built systems used by 30k+ users, including real-time messaging platforms and internal tools supporting housing operations across 500,000+ residents and 2,000+ buildings. A lot of my work involves turning messy, policy-driven or operational requirements into reliable, production-ready software.
 
-### tech I work with
+---
+
+### Tech I Work With
 
 **Core**  
 React, Next.js, TypeScript, Node.js, Python  
@@ -26,15 +28,17 @@ Vitest, GitHub Actions
 
 ---
 
-## 🛠️ Engineering Focus
+## Engineering Focus
 
-- **Scale & Reliability:** Delivered front-end systems for government agencies, supporting high-traffic applications and complex policy-driven data workflows.  
-- **Architecture:** Designed modular, reusable component systems to support long-term maintainability and evolving product requirements.  
-- **Performance:** Improved Core Web Vitals, handled serverless cold starts, and implemented optimistic UI patterns for responsive, real-time user experiences.  
-- **Modernization:** Refactored legacy C# Web Forms applications into modern, responsive React-based systems without disrupting existing functionality.  
+- **Data Systems & Reporting:** Built internal tools and dashboards used in government operations, standardizing metrics across large, fragmented datasets  
+- **Real-Time Systems:** Developed messaging platforms and live UI features using WebSockets and event-driven patterns  
+- **Architecture:** Designed modular, maintainable systems that support evolving product and policy requirements  
+- **Modernization:** Refactored legacy applications into responsive, modern systems without breaking existing workflows  
 
-## 🌐 Professional Ecosystem
+---
 
-- **Official Portfolio:** [adam-steele.dev](https://adam-steele.dev) 
-- **Background:** Master’s in Urban Policy with a focus on analytical and data-driven decision-making  
-- **Focus:** Building reliable, user-centered applications for data-intensive and civic-oriented systems  
+## Links
+
+- **Portfolio:** https://adam-steele.dev  
+- **Background:** Master’s in Urban Policy with a focus on data and research methods  
+- **Focus:** Building reliable, user-centered applications for data-heavy and civic systems  
