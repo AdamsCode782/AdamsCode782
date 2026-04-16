@@ -4,7 +4,7 @@
 
 I’m a full-stack developer with experience across legacy public sector systems and early-stage, mission-driven startups. I like taking on messy problems and turning them into something that works.
 
-Always open to meet new people and new technical challenges.
+Always open to meeting new people and new technical challenges.
 
 Sci-fi and physics nerd :)
 
